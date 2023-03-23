@@ -7,5 +7,4 @@ A range of experiments show that our method improves the
 Bayesian classification ability of ETAN.
 
 
-run main.py 
 Datasets all in bn_generation.
