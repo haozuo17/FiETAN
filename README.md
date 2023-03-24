@@ -1,3 +1,6 @@
+#GAN-ETAN is the new name, FiETAN is the old name. They are same.
+
+
 Extended Tree Augmented Naive Classifier (ETAN) is 
 a recently proposed model which relax the independence assumption between input features. 
 However, it is usually challenging to train a good ETAN, because it needs more training data. 
